@@ -1,5 +1,7 @@
 # CodeAlpha_Disease_Prediction_from_Medical_Data
 
+You can run the file in Google Colab and Jupiter Notebook
+
 _**Explanation:**_
 
 **Installing Libraries**
