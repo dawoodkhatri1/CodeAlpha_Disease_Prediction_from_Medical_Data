@@ -55,3 +55,7 @@ Prediction 1:
 Prediction 2:
 
 ![image](https://github.com/user-attachments/assets/265a4bb2-3666-448d-8189-d21d2fba0a53)
+
+## License
+
+[MIT License](LICENSE)
